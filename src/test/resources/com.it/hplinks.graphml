@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml/1.0/ygraphml.xsd" xmlns:y="http://www.yworks.com/xml/graphml">
+  <key id="d0" for="node" yfiles.type="nodegraphics"/>
+  <key id="d1" for="edge" yfiles.type="edgegraphics"/>
+  <graph id="G" edgedefault="directed">
+    <node id="d1264a50-1b60-11eb-a7d6-f32b4c44744b">
+      <data key="d0" >
+        <y:ShapeNode >
+          <y:Geometry  x="241.875" y="158.701171875" width="95.0" height="30.0"/>
+          <y:Fill color="#CCCCFF"  transparent="false"/>
+          <y:BorderStyle type="line" width="1.0" color="#000000" />
+          <y:NodeLabel x="1.5" y="5.6494140625" width="92.0" height="18.701171875" visible="true" alignment="center" fontFamily="Dialog" fontSize="12" fontStyle="plain" textColor="#000000" modelName="internal" modelPosition="c" autoSizePolicy="content">v_HomePageOpened</y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="d415c920-1b60-11eb-a7d6-f32b4c44744b">
+      <data key="d0" >
+        <y:ShapeNode >
+          <y:Geometry  x="241.875" y="158.701171875" width="95.0" height="30.0"/>
+          <y:Fill color="#CCCCFF"  transparent="false"/>
+          <y:BorderStyle type="line" width="1.0" color="#000000" />
+          <y:NodeLabel x="1.5" y="5.6494140625" width="92.0" height="18.701171875" visible="true" alignment="center" fontFamily="Dialog" fontSize="12" fontStyle="plain" textColor="#000000" modelName="internal" modelPosition="c" autoSizePolicy="content">v_UtbildningarPageOpened</y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="1c2ad880-1b6c-11eb-a7d6-f32b4c44744b">
+      <data key="d0" >
+        <y:ShapeNode >
+          <y:Geometry  x="241.875" y="158.701171875" width="95.0" height="30.0"/>
+          <y:Fill color="#CCCCFF"  transparent="false"/>
+          <y:BorderStyle type="line" width="1.0" color="#000000" />
+          <y:NodeLabel x="1.5" y="5.6494140625" width="92.0" height="18.701171875" visible="true" alignment="center" fontFamily="Dialog" fontSize="12" fontStyle="plain" textColor="#000000" modelName="internal" modelPosition="c" autoSizePolicy="content">v_OmOssPageOpened</y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="ec1b1d70-1b6c-11eb-a7d6-f32b4c44744b">
+      <data key="d0" >
+        <y:ShapeNode >
+          <y:Geometry  x="241.875" y="158.701171875" width="95.0" height="30.0"/>
+          <y:Fill color="#CCCCFF"  transparent="false"/>
+          <y:BorderStyle type="line" width="1.0" color="#000000" />
+          <y:NodeLabel x="1.5" y="5.6494140625" width="92.0" height="18.701171875" visible="true" alignment="center" fontFamily="Dialog" fontSize="12" fontStyle="plain" textColor="#000000" modelName="internal" modelPosition="c" autoSizePolicy="content">v_NyheterPageOpened</y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <edge id="685d7680-1b63-11eb-a7d6-f32b4c44744b" source="d1264a50-1b60-11eb-a7d6-f32b4c44744b" target="d415c920-1b60-11eb-a7d6-f32b4c44744b">
+      <data key="d1" >
+        <y:PolyLineEdge >
+          <y:Path sx="-23.75" sy="15.0" tx="-23.75" ty="-15.0">
+            <y:Point x="273.3125" y="95.0"/>
+            <y:Point x="209.5625" y="95.0"/>
+            <y:Point x="209.5625" y="143.701171875"/>
+            <y:Point x="265.625" y="143.701171875"/>
+          </y:Path>
+          <y:LineStyle type="line" width="1.0" color="#000000" />
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel x="-148.25" y="30.000000000000014" width="169.0" height="18.701171875" visible="true" alignment="center" fontFamily="Dialog" fontSize="12" fontStyle="plain" textColor="#000000" modelName="free" modelPosition="anywhere" preferredPlacement="on_edge" distance="2.0" ratio="0.5">e_ClickLinkUtbildningar</y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="58639460-1b65-11eb-a7d6-f32b4c44744b" source="d415c920-1b60-11eb-a7d6-f32b4c44744b" target="d1264a50-1b60-11eb-a7d6-f32b4c44744b">
+      <data key="d1" >
+        <y:PolyLineEdge >
+          <y:Path sx="-23.75" sy="15.0" tx="-23.75" ty="-15.0">
+            <y:Point x="273.3125" y="95.0"/>
+            <y:Point x="209.5625" y="95.0"/>
+            <y:Point x="209.5625" y="143.701171875"/>
+            <y:Point x="265.625" y="143.701171875"/>
+          </y:Path>
+          <y:LineStyle type="line" width="1.0" color="#000000" />
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel x="-148.25" y="30.000000000000014" width="169.0" height="18.701171875" visible="true" alignment="center" fontFamily="Dialog" fontSize="12" fontStyle="plain" textColor="#000000" modelName="free" modelPosition="anywhere" preferredPlacement="on_edge" distance="2.0" ratio="0.5">e_GoToHomePage</y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="21070c20-1b6c-11eb-a7d6-f32b4c44744b" source="d1264a50-1b60-11eb-a7d6-f32b4c44744b" target="1c2ad880-1b6c-11eb-a7d6-f32b4c44744b">
+      <data key="d1" >
+        <y:PolyLineEdge >
+          <y:Path sx="-23.75" sy="15.0" tx="-23.75" ty="-15.0">
+            <y:Point x="273.3125" y="95.0"/>
+            <y:Point x="209.5625" y="95.0"/>
+            <y:Point x="209.5625" y="143.701171875"/>
+            <y:Point x="265.625" y="143.701171875"/>
+          </y:Path>
+          <y:LineStyle type="line" width="1.0" color="#000000" />
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel x="-148.25" y="30.000000000000014" width="169.0" height="18.701171875" visible="true" alignment="center" fontFamily="Dialog" fontSize="12" fontStyle="plain" textColor="#000000" modelName="free" modelPosition="anywhere" preferredPlacement="on_edge" distance="2.0" ratio="0.5">e_ClickLinkOmOss</y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="33d38450-1b6c-11eb-a7d6-f32b4c44744b" source="1c2ad880-1b6c-11eb-a7d6-f32b4c44744b" target="d1264a50-1b60-11eb-a7d6-f32b4c44744b">
+      <data key="d1" >
+        <y:PolyLineEdge >
+          <y:Path sx="-23.75" sy="15.0" tx="-23.75" ty="-15.0">
+            <y:Point x="273.3125" y="95.0"/>
+            <y:Point x="209.5625" y="95.0"/>
+            <y:Point x="209.5625" y="143.701171875"/>
+            <y:Point x="265.625" y="143.701171875"/>
+          </y:Path>
+          <y:LineStyle type="line" width="1.0" color="#000000" />
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel x="-148.25" y="30.000000000000014" width="169.0" height="18.701171875" visible="true" alignment="center" fontFamily="Dialog" fontSize="12" fontStyle="plain" textColor="#000000" modelName="free" modelPosition="anywhere" preferredPlacement="on_edge" distance="2.0" ratio="0.5">e_GoToHomePage</y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="f9d277b0-1b6c-11eb-a7d6-f32b4c44744b" source="d1264a50-1b60-11eb-a7d6-f32b4c44744b" target="ec1b1d70-1b6c-11eb-a7d6-f32b4c44744b">
+      <data key="d1" >
+        <y:PolyLineEdge >
+          <y:Path sx="-23.75" sy="15.0" tx="-23.75" ty="-15.0">
+            <y:Point x="273.3125" y="95.0"/>
+            <y:Point x="209.5625" y="95.0"/>
+            <y:Point x="209.5625" y="143.701171875"/>
+            <y:Point x="265.625" y="143.701171875"/>
+          </y:Path>
+          <y:LineStyle type="line" width="1.0" color="#000000" />
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel x="-148.25" y="30.000000000000014" width="169.0" height="18.701171875" visible="true" alignment="center" fontFamily="Dialog" fontSize="12" fontStyle="plain" textColor="#000000" modelName="free" modelPosition="anywhere" preferredPlacement="on_edge" distance="2.0" ratio="0.5">e_ClickLinkNyheter</y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="09411ee0-1b6d-11eb-a7d6-f32b4c44744b" source="ec1b1d70-1b6c-11eb-a7d6-f32b4c44744b" target="d1264a50-1b60-11eb-a7d6-f32b4c44744b">
+      <data key="d1" >
+        <y:PolyLineEdge >
+          <y:Path sx="-23.75" sy="15.0" tx="-23.75" ty="-15.0">
+            <y:Point x="273.3125" y="95.0"/>
+            <y:Point x="209.5625" y="95.0"/>
+            <y:Point x="209.5625" y="143.701171875"/>
+            <y:Point x="265.625" y="143.701171875"/>
+          </y:Path>
+          <y:LineStyle type="line" width="1.0" color="#000000" />
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel x="-148.25" y="30.000000000000014" width="169.0" height="18.701171875" visible="true" alignment="center" fontFamily="Dialog" fontSize="12" fontStyle="plain" textColor="#000000" modelName="free" modelPosition="anywhere" preferredPlacement="on_edge" distance="2.0" ratio="0.5">e_GoToHomePage</y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="2ee755b0-1b6d-11eb-a7d6-f32b4c44744b" source="d415c920-1b60-11eb-a7d6-f32b4c44744b" target="1c2ad880-1b6c-11eb-a7d6-f32b4c44744b">
+      <data key="d1" >
+        <y:PolyLineEdge >
+          <y:Path sx="-23.75" sy="15.0" tx="-23.75" ty="-15.0">
+            <y:Point x="273.3125" y="95.0"/>
+            <y:Point x="209.5625" y="95.0"/>
+            <y:Point x="209.5625" y="143.701171875"/>
+            <y:Point x="265.625" y="143.701171875"/>
+          </y:Path>
+          <y:LineStyle type="line" width="1.0" color="#000000" />
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel x="-148.25" y="30.000000000000014" width="169.0" height="18.701171875" visible="true" alignment="center" fontFamily="Dialog" fontSize="12" fontStyle="plain" textColor="#000000" modelName="free" modelPosition="anywhere" preferredPlacement="on_edge" distance="2.0" ratio="0.5">e_ClickLinkOmOss</y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="3a76c6e0-1b6d-11eb-a7d6-f32b4c44744b" source="1c2ad880-1b6c-11eb-a7d6-f32b4c44744b" target="d415c920-1b60-11eb-a7d6-f32b4c44744b">
+      <data key="d1" >
+        <y:PolyLineEdge >
+          <y:Path sx="-23.75" sy="15.0" tx="-23.75" ty="-15.0">
+            <y:Point x="273.3125" y="95.0"/>
+            <y:Point x="209.5625" y="95.0"/>
+            <y:Point x="209.5625" y="143.701171875"/>
+            <y:Point x="265.625" y="143.701171875"/>
+          </y:Path>
+          <y:LineStyle type="line" width="1.0" color="#000000" />
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel x="-148.25" y="30.000000000000014" width="169.0" height="18.701171875" visible="true" alignment="center" fontFamily="Dialog" fontSize="12" fontStyle="plain" textColor="#000000" modelName="free" modelPosition="anywhere" preferredPlacement="on_edge" distance="2.0" ratio="0.5">e_ClickLinkUtbildningar</y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="6049b300-1b6d-11eb-a7d6-f32b4c44744b" source="ec1b1d70-1b6c-11eb-a7d6-f32b4c44744b" target="1c2ad880-1b6c-11eb-a7d6-f32b4c44744b">
+      <data key="d1" >
+        <y:PolyLineEdge >
+          <y:Path sx="-23.75" sy="15.0" tx="-23.75" ty="-15.0">
+            <y:Point x="273.3125" y="95.0"/>
+            <y:Point x="209.5625" y="95.0"/>
+            <y:Point x="209.5625" y="143.701171875"/>
+            <y:Point x="265.625" y="143.701171875"/>
+          </y:Path>
+          <y:LineStyle type="line" width="1.0" color="#000000" />
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel x="-148.25" y="30.000000000000014" width="169.0" height="18.701171875" visible="true" alignment="center" fontFamily="Dialog" fontSize="12" fontStyle="plain" textColor="#000000" modelName="free" modelPosition="anywhere" preferredPlacement="on_edge" distance="2.0" ratio="0.5">e_ClickLinkOmOss</y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="6ba4a6b0-1b6d-11eb-a7d6-f32b4c44744b" source="1c2ad880-1b6c-11eb-a7d6-f32b4c44744b" target="ec1b1d70-1b6c-11eb-a7d6-f32b4c44744b">
+      <data key="d1" >
+        <y:PolyLineEdge >
+          <y:Path sx="-23.75" sy="15.0" tx="-23.75" ty="-15.0">
+            <y:Point x="273.3125" y="95.0"/>
+            <y:Point x="209.5625" y="95.0"/>
+            <y:Point x="209.5625" y="143.701171875"/>
+            <y:Point x="265.625" y="143.701171875"/>
+          </y:Path>
+          <y:LineStyle type="line" width="1.0" color="#000000" />
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel x="-148.25" y="30.000000000000014" width="169.0" height="18.701171875" visible="true" alignment="center" fontFamily="Dialog" fontSize="12" fontStyle="plain" textColor="#000000" modelName="free" modelPosition="anywhere" preferredPlacement="on_edge" distance="2.0" ratio="0.5">e_ClickLinkNyheter</y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="c91d2670-1b70-11eb-a7d6-f32b4c44744b" source="ec1b1d70-1b6c-11eb-a7d6-f32b4c44744b" target="d415c920-1b60-11eb-a7d6-f32b4c44744b">
+      <data key="d1" >
+        <y:PolyLineEdge >
+          <y:Path sx="-23.75" sy="15.0" tx="-23.75" ty="-15.0">
+            <y:Point x="273.3125" y="95.0"/>
+            <y:Point x="209.5625" y="95.0"/>
+            <y:Point x="209.5625" y="143.701171875"/>
+            <y:Point x="265.625" y="143.701171875"/>
+          </y:Path>
+          <y:LineStyle type="line" width="1.0" color="#000000" />
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel x="-148.25" y="30.000000000000014" width="169.0" height="18.701171875" visible="true" alignment="center" fontFamily="Dialog" fontSize="12" fontStyle="plain" textColor="#000000" modelName="free" modelPosition="anywhere" preferredPlacement="on_edge" distance="2.0" ratio="0.5">e_ClickLinkUtbildningar</y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="f26c8f20-1b70-11eb-a7d6-f32b4c44744b" source="d415c920-1b60-11eb-a7d6-f32b4c44744b" target="ec1b1d70-1b6c-11eb-a7d6-f32b4c44744b">
+      <data key="d1" >
+        <y:PolyLineEdge >
+          <y:Path sx="-23.75" sy="15.0" tx="-23.75" ty="-15.0">
+            <y:Point x="273.3125" y="95.0"/>
+            <y:Point x="209.5625" y="95.0"/>
+            <y:Point x="209.5625" y="143.701171875"/>
+            <y:Point x="265.625" y="143.701171875"/>
+          </y:Path>
+          <y:LineStyle type="line" width="1.0" color="#000000" />
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel x="-148.25" y="30.000000000000014" width="169.0" height="18.701171875" visible="true" alignment="center" fontFamily="Dialog" fontSize="12" fontStyle="plain" textColor="#000000" modelName="free" modelPosition="anywhere" preferredPlacement="on_edge" distance="2.0" ratio="0.5">e_GoToHomePage</y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="4b1ad560-1c60-11eb-bd5f-ffcb5648656c" source="d1264a50-1b60-11eb-a7d6-f32b4c44744b" target="d1264a50-1b60-11eb-a7d6-f32b4c44744b">
+      <data key="d1" >
+        <y:PolyLineEdge >
+          <y:Path sx="-23.75" sy="15.0" tx="-23.75" ty="-15.0">
+            <y:Point x="273.3125" y="95.0"/>
+            <y:Point x="209.5625" y="95.0"/>
+            <y:Point x="209.5625" y="143.701171875"/>
+            <y:Point x="265.625" y="143.701171875"/>
+          </y:Path>
+          <y:LineStyle type="line" width="1.0" color="#000000" />
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel x="-148.25" y="30.000000000000014" width="169.0" height="18.701171875" visible="true" alignment="center" fontFamily="Dialog" fontSize="12" fontStyle="plain" textColor="#000000" modelName="free" modelPosition="anywhere" preferredPlacement="on_edge" distance="2.0" ratio="0.5">e_OpenBrowser</y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e9cf2c90-1c67-11eb-bd5f-ffcb5648656c" source="d1264a50-1b60-11eb-a7d6-f32b4c44744b" target="d1264a50-1b60-11eb-a7d6-f32b4c44744b">
+      <data key="d1" >
+        <y:PolyLineEdge >
+          <y:Path sx="-23.75" sy="15.0" tx="-23.75" ty="-15.0">
+            <y:Point x="273.3125" y="95.0"/>
+            <y:Point x="209.5625" y="95.0"/>
+            <y:Point x="209.5625" y="143.701171875"/>
+            <y:Point x="265.625" y="143.701171875"/>
+          </y:Path>
+          <y:LineStyle type="line" width="1.0" color="#000000" />
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel x="-148.25" y="30.000000000000014" width="169.0" height="18.701171875" visible="true" alignment="center" fontFamily="Dialog" fontSize="12" fontStyle="plain" textColor="#000000" modelName="free" modelPosition="anywhere" preferredPlacement="on_edge" distance="2.0" ratio="0.5">e_OpenBrowser</y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+  </graph>
+</graphml>
+
